@@ -15,7 +15,7 @@ By default, it will try to convert as much information as possible from WordPres
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/thomasf/exitwp.git
+ https://github.com/myndworkz/exitwp_py3.0.git
    ```
 
 2. Export one or more WordPress blogs using the WordPress exporter under **Tools > Export** in the WordPress admin.
