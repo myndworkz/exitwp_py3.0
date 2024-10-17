@@ -7,8 +7,7 @@ Here’s an updated **README** that reflects the changes we made to make `exitwp
 
 By default, it will try to convert as much information as possible from WordPress but can also be configured to filter the amount of data it converts.
 
-The latest version of these docs should always be available at:  
-https://github.com/thomasf/exitwp
+
 
 ---
 
